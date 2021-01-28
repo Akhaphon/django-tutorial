@@ -1,1 +1,3 @@
-''' Hello Django Project '''
+''' 
+Hello Django Project 
+'''
